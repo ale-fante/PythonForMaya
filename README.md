@@ -9,3 +9,13 @@ OR
 
 To run code, click on the double arrow button
 
+MAYA has an OPenMaya API to get deep access into Maya's architecture.
+
+MAYA has four programming languages 
+1) MEL
+2) C++ 
+3) Python
+    - cmds library
+    - OpenMaya API (1 and 2)
+    - PyMEL (python-like interface)
+4) C# (limited to windows)
