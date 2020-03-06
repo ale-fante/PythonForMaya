@@ -19,3 +19,6 @@ MAYA has four programming languages
     - OpenMaya API (1 and 2)
     - PyMEL (python-like interface)
 4) C# (limited to windows)
+
+### For help go to:
+help > Maya Scripting References > Maya
