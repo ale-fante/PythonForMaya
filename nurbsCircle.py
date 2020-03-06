@@ -15,3 +15,5 @@ cmds.parent(cubeShape, circleShape)
 cmds.setAttr(cubeShape +".translate", lock=True)
 cmds.setAttr(cubeShape + ".rotate", lock=True)
 cmds.setAttr(cubeShape + ".scale", lock=True)
+
+cmds.select(circleShape)
