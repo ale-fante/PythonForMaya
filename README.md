@@ -22,3 +22,5 @@ MAYA has four programming languages
 
 ### For help go to:
 help > Maya Scripting References > Maya
+ - to get - 
+ http://help.autodesk.com/view/MAYAUL/2018/ENU/?contextId=COMMANDSPYTHON-INDEX
